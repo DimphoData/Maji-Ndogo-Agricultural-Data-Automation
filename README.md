@@ -29,11 +29,12 @@ Management Records: Crop types and historical yield performance
 
 - Strategic Recommendation (Final Output)The ultimate goal is to isolate High-Potential Fields. The project filters the master dataset to find specific plots of land that meet a "Perfect Condition" profile. Above-average historical yield, Optimal temperature windows ($12^{\circ}C$ - $15^{\circ}C$), & Zero to low pollution levels.
 
-- Tech Stack - SQL & SQLAlchemy: For relational database management and 4-way table joins.
+- Tech Stack
+  1, SQL & SQLAlchemy: For relational database management and 4-way table joins.
 Python (Pandas & NumPy): For data manipulation, cleaning, and statistical aggregation.
 
-Matplotlib: For visualizing trends in soil fertility and yield distribution.
+2, Matplotlib: For visualizing trends in soil fertility and yield distribution.
 
-Modular Programming: Refactoring logic into independent scripts for Ingestion, Cleaning, and Analysis.
+3, Modular Programming: Refactoring logic into independent scripts for Ingestion, Cleaning, and Analysis.
 
 - Expected Outcomes: By the end of this project, we move from a messy, unreliable database to a prioritized list of high-yield fields. This allows the government or NGO stakeholders to move from "guesswork" to "data-driven" agricultural management, ensuring that technology is only deployed where it has the highest probability of success.
