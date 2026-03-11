@@ -31,7 +31,9 @@ Management Records: Crop types and historical yield performance
 
 - Tech Stack - SQL & SQLAlchemy: For relational database management and 4-way table joins.
 Python (Pandas & NumPy): For data manipulation, cleaning, and statistical aggregation.
+
 Matplotlib: For visualizing trends in soil fertility and yield distribution.
+
 Modular Programming: Refactoring logic into independent scripts for Ingestion, Cleaning, and Analysis.
 
 - Expected Outcomes: By the end of this project, we move from a messy, unreliable database to a prioritized list of high-yield fields. This allows the government or NGO stakeholders to move from "guesswork" to "data-driven" agricultural management, ensuring that technology is only deployed where it has the highest probability of success.
